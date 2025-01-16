@@ -1056,7 +1056,7 @@ ul {
 }
 
 .steps-hover-thumb {
-    background: url('../images/features/step-hover-img.jpg');
+    /*background: url('../images/features/step-hover-img.jpg');*/
     background-repeat: no-repeat;
     background-position: 10px center;
     position: absolute;

@@ -83,7 +83,7 @@ $(document).ready(function () {
     (function ($) {
         var length = $('.parallax-box').length;
         if (length >= 1) {
-            $('.parallax-box').parallax({ imageSrc: 'images/parallax.jpg' });
+            $('.parallax-box').parallax({ imageSrc: 'images/parallax-final.jpg' });
         }
     })(jQuery);
 
